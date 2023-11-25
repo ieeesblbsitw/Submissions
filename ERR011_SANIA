@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<title>Community Blog Page</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			<div id="main">
+				<div class="inner">
+					<header id="header">
+						<ul class="icons">
+							<li><a href="#"><span class="label">Twitter</span></a></li>
+							<li><a href="#"><span class="label">Facebook</span></a></li>
+							<li><a href="#"><span class="label">Snapchat</span></a></li>
+							<li><a href="#"><span class="label">Instagram</span></a></li>
+							<li><a href="#"><span class="label">Medium</span></a></li>
+						</ul>
+					</header>
+					<section id="banner">
+						<div class="content">
+							<header>
+								<h1>Hi, Welcome to<br />Community Blog Page </h1>
+							</header>
+							<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+							<ul class="actions">
+								<li><a href="#" class="button big">Learn More</a></li>
+							</ul>
+						</div>
+						<span class="image object">
+							<!-- You should provide a src attribute for the image -->
+							<img src="path_to_your_image.jpg" alt="Description of the image" />
+						</span>
+					</section>
+					<!-- ... rest of your code -->
+				</div>
+			</div>
+			<div id="sidebar">
+				<div class="inner">
+					<!-- ... rest of your code -->
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
