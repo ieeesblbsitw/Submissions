@@ -1,0 +1,9 @@
+<header id="header">
+								<div class="{ code }">
+									<ul class="icons">
+										<li><a href="#" ><span class="label">Twitter</span></a></li>
+										<li><a href="#" ><span class="label">Facebook</span></a></li>
+										<li><a href="#"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" ><span class="label">Instagram</span></a></li>
+										<li><a href="#"><span class="label">Medium</span></a></li>
+									</ul></div>
